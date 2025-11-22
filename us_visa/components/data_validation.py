@@ -4,7 +4,9 @@ import sys
 import pandas as pd
 from evidently.model_profile import Profile
 from evidently.model_profile.sections import DataDriftProfileSection
+
 from pandas import DataFrame
+
 from us_visa.exception import USvisaException
 from us_visa.logger import logging
 from us_visa.utils.main_utils import read_yaml_file, write_yaml_file
