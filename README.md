@@ -31,6 +31,21 @@ pip install -r requirements.txt
 4. pipeline
 5. Main file
 
+## Export the environment variable
+export MONGODB_URL="mongodb+srv://shauryatiwari:shauryatiwari@cluster0.8q1i7me.mongodb.net/?appName=Cluster0"
+4XTJTrfpjqmegyjh    shauryatiwari2507_db_user
+
+export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
+
+
+export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
+
+
+ 
+
+
+
+
 
 
 
